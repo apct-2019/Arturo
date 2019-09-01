@@ -43,7 +43,7 @@ Este é um tipo especial de amplifi que adiciona apenas um pequeno ruído ao sis
 
 Este é um tipo de amplificador que está pronto para colocar na placa, já está todo polarizado e não precisa que circuito externo seja adicionado para que funcione.
 
-TQP3M9019 - High Linearity LNA Gain Block
+## TQP3M9019 - High Linearity LNA Gain Block
 
 Este amplificador possui as seguintes especificações:
 
@@ -52,6 +52,6 @@ Ganho: 22dB a 1900MHz
 Figura de Ruído: 1.3dB
 O1P3: 39.5dBm
 
-Outros parâmetros importantes podem ser visto nos gráficos abaixo:
+Outros parâmetros importantes podem ser visto nos gráficos abaixo e no datasheet do componente.
 
 (FIGURA)
