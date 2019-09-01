@@ -9,11 +9,11 @@ Estes parâmetros são importantes no cálculo da figura de ruído de diversos s
 
 Outros parâmetros importantes a se considerar na escolha de amplificadores são OP1dB e OIP3
 
-### OP1dB
+##### OP1dB
 
 O ganho dos amplificadores cresce de maneira linear até o ponto de saturação, onde independente do aumento do sinal de entrada, o sinal de saída não cresce mais. Assim, se fizermos uma projeção da reta de ganho do amplificador e marcamos o ponto em que ela se distancia 1dB da região de saturação, podemos encontrar o OP1dB, como pode ser visto na imagem abaixo.
 
-### OIP3
+##### OIP3
 
 Os harmônicos dos sinais tamabém são amplificados, porém, a medida que a ordem dos harmônicos vão crescendo, eles vão tendo menos influência no sinal.
 
