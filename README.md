@@ -1,5 +1,5 @@
-# Arturo
-LNA/Gain Blocks
+# LNA/Gain Blocks
+
 
 Amplificadores são dispositicos eletrônicos utilizados em diversos equipamentos que tem por objetivo aumentar o valor da amplitude do sinal da entrada (podendo ser também ruído) e consequentemente aumentar também a potência.
 
@@ -9,11 +9,11 @@ Estes parâmetros são importantes no cálculo da figura de ruído de diversos s
 
 Outros parâmetros importantes a se considerar na escolha de amplificadores são OP1dB e OIP3
 
-*OP1dB
+### OP1dB
 
 O ganho dos amplificadores cresce de maneira linear até o ponto de saturação, onde independente do aumento do sinal de entrada, o sinal de saída não cresce mais. Assim, se fizermos uma projeção da reta de ganho do amplificador e marcamos o ponto em que ela se distancia 1dB da região de saturação, podemos encontrar o OP1dB, como pode ser visto na imagem abaixo.
 
-*OIP3
+### OIP3
 
 Os harmônicos dos sinais tamabém são amplificados, porém, a medida que a ordem dos harmônicos vão crescendo, eles vão tendo menos influência no sinal.
 
@@ -22,6 +22,8 @@ Sendo assim, faz-se uma análise do 3º harmônico. Se pegarmos a projeção ret
 O OIP3 pode ser visto na figura abaixo
 
 (FIGURA)
+
+## Especificações
 
 Sendo assim, alguns parâmetros importantes para a escolha de um amplificador são:
 
@@ -33,11 +35,11 @@ Sendo assim, alguns parâmetros importantes para a escolha de um amplificador s�
 
 É importante pontuar que na escolha de um amplicador, deve se escolher o componente mais ideal possível, ou seja, grande faixa de operação, grande ganho, pequena faixa de ruído e valores altos de OIP3 e OP1dB.
 
-Low Noise Amplifier - LNA
+## Low Noise Amplifier - LNA
 
 Este é um tipo especial de amplifi que adiciona apenas um pequeno ruído ao sistema.
 
-Gain Block
+## Gain Block
 
 Este é um tipo de amplificador que está pronto para colocar na placa, já está todo polarizado e não precisa que circuito externo seja adicionado para que funcione.
 
