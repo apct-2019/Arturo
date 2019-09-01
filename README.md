@@ -21,7 +21,7 @@ Sendo assim, faz-se uma análise do 3º harmônico. Se pegarmos a projeção ret
 
 O OIP3 pode ser visto na figura abaixo
 
-(FIGURA)
+![Exemplo de OP1dB e OIP3](pdb.PNG)
 
 ## Especificações
 
@@ -54,4 +54,4 @@ O1P3: 39.5dBm
 
 Outros parâmetros importantes podem ser visto nos gráficos abaixo e no datasheet do componente.
 
-(FIGURA)
+![Outras infromacoes](graficos.PNG)
