@@ -43,7 +43,7 @@ Este é um tipo especial de amplifi que adiciona apenas um pequeno ruído ao sis
 
 Este é um tipo de amplificador que está pronto para colocar na placa, já está todo polarizado e não precisa que circuito externo seja adicionado para que funcione.
 
-##Componentes escolhidos para o projeto
+## Componentes escolhidos para o projeto
 
 ### TQP3M9019 - High Linearity LNA Gain Block
 
