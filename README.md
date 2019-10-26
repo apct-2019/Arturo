@@ -59,16 +59,14 @@ Outros parâmetros importantes podem ser visto nos gráficos abaixo e no datashe
 ![Outras infromacoes](graficos.PNG)
 
 
-### LMH6881 - Programmable Diferential Amplifier
+### MAR-6+
 
-Este amplificador possui as seguintes especificações:
+Este é um Gain Block com as seguintes especificações:
 
-- Faixa de Operação: DC a 2.5GHz
-- Ganho: 6dB a 26dB
-- Figura de Ruído: 9.7dB
-- O1P3: 44dBm
-- Comunicação SPI
-
-Diferente do outro amplificador, este compontente possui ganho variável, e este ganho pode ser ajustado por qualquer controlador com comunicação SPI.
+- Faixa de Operação: DC a 2GHz
+- Ganho: 21.8dB
+- Figura de Ruído: 2.3dB
+- OP1dB = 3.7dBm
+- O1P3: 18.1dBm
 
 Mais informações podem ser encontradas no datasheet deste componente que se encontra neste reposítorio.
