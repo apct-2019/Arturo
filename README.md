@@ -69,4 +69,4 @@ Este é um Gain Block com as seguintes especificações:
 - OP1dB = 3.7dBm
 - O1P3: 18.1dBm
 
-Mais informações podem ser encontradas no datasheet deste componente que se encontra neste reposítorio.
+Mais informações podem ser encontradas no datasheet deste componente que se encontra neste reposítorio e simulações de como este componente pode funciona numa cadeia de recepção de RF pode ser encontradao no repositoório da integra desse projeto.
